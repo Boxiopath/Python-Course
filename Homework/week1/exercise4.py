@@ -1,0 +1,2 @@
+#Git commit basically “records changes to the local repository” while git push “updates remote refs along with associated objects”. So the first one is used in connection with your local repository, while the latter one is used to interact with a remote repository.
+#The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content.

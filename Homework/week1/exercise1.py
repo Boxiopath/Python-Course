@@ -1,0 +1,7 @@
+x = str(24)
+y = int('10')
+z = float(95)
+print(z)
+print (y)
+print (x)
+print('this is a string'.islower())
